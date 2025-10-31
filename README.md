@@ -49,4 +49,4 @@ docker compose up --build
 
 3. Get book by title<br>
 Example:<br>
-GET http://localhost:8080/books?title=harry+potter
+GET http://localhost:8080/api/books?title=The+Lord+Of+The+Rings
