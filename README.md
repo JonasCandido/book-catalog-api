@@ -38,7 +38,7 @@ A Spring Boot REST API for searching books using the **Open Library API**, with 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/book-catalog-api.git
+git clone https://github.com/JonasCandido/book-catalog-api
 cd book-catalog-api
 ```
 
