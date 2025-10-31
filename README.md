@@ -44,7 +44,7 @@ cd book-catalog-api
 
 2. Build images and start the container
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 3. Get book by title<br>
