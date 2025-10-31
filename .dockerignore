@@ -1,0 +1,11 @@
+# Maven/Java build
+target/
+*.log
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile*
+docker-compose.yml
