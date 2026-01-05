@@ -29,7 +29,7 @@ A Spring Boot REST API for searching books using the **Open Library API**, with 
 ## Prerequisites
 
 - Docker
-- Docker Compose(If needed)
+- Docker Compose
 
 ---
 
